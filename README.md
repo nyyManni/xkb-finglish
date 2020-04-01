@@ -5,3 +5,12 @@
 ## Additionally:
 - Ctrl and Alt swapped
 - Escape mapped to caps lock
+
+## Usage:
+
+install with:
+```sh
+    sudo make install
+```
+
+A new keyboard layout `Finglish (US)`, `fus` is available.
