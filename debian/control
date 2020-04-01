@@ -1,0 +1,24 @@
+Source: xkb-finglish
+Maintainer: Henrik Nyman <h@nyymanni.com>
+Section: x11
+Priority: optional
+Build-Depends: debhelper (>= 8)
+Standards-Version: 4.5.0
+
+
+Package: xkb-finglish
+Architecture: all
+Depends: xkb-data
+Description: A keyboard layout for touch-typing US layout with a nordic keyboard
+  # XKB layout for using US layout with a nordic keyboard
+  - Return and backslash swapped
+  - < works as a left shift
+  ## Additionally:
+  - Ctrl and Alt swapped
+  - Escape mapped to caps lock
+  ## Usage:
+  install with:
+  ```sh
+      sudo make install
+  ```
+  A new keyboard layout `Finglish (US)`, `fus` is available.
