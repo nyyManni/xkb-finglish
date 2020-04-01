@@ -1,6 +1,6 @@
 # XKB layout for using US layout with a nordic keyboard
 
-I have been using the US layout for programming and writing English text for a while. Unfortunately I live in an area where it is difficult to get a laptop with a US keyboar (apart from Apple laptops), so the experience has been quite frustrating. At work I use an ErgoDox, which obviously has no problems with this, but some of the time I will have to do with the laptop keyboard.
+I have been using the US layout for programming and writing English text for a while. Unfortunately I live in an area where it is difficult to get a laptop with a US keyboard (apart from Apple laptops), so the experience has been quite frustrating. At work I use an ErgoDox, which obviously has no problems with this, but some of the time I will have to do with the laptop keyboard.
 
 This keyboard layout enables using a nordic keyboard as if it were a US one. To make touch-typing with a US layout possible, a certain amount of hacks need to be in place to account for the fundamentally different layouts of the two layouts: the length of the left shift key and the shape of the return key.
 
